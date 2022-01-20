@@ -25,7 +25,7 @@ class Wish
      * min=5,
      * max=250,
      * minMessage="Minimum 5 characters please!",
-     * maxMessage="Maximum 250 characters please!"Le développement Web côté serveur – Backend (avec Symfony)
+     * maxMessage="Maximum 250 characters please!"
      * )
      */
     private $title;
